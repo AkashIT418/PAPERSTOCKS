@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+
+body,html{
+    height: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.container{
+    margin-top:5%;
+    padding: 2%;
+    margin-left:35%;
+}
+
+.display-4{
+    font-size: 3.2rem;
+    margin-bottom:3%;
+}
+
+.form-group{
+    margin-bottom:2%;
+}
+
+
+@media screen and (max-width: 768px){
+    .container{
+        margin-left: 5%;
+    
+    }
