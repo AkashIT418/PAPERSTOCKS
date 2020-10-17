@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+
+body,html{
+    height: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.container{
+    margin-top: 5%;
+    overflow: hidden;
+}
+
+.course{
+    overflow: hidden;
+}
+
+@media screen and (max-width: 768px){
+    .course{
+        font-size: 1rem;
+    }
+    
+@media screen and (max-width: 540px){
+    .course{
+        font-size: 0.8rem;
+    }
+
+    .display-4{
+        font-size:2rem;
+    }
