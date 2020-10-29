@@ -2,7 +2,7 @@
   "name": "paperstocks",
   "version": "1.0.0",
   "engines": {
-    "node": "8.10.0"
+    "node": "15.0.1"
   },
   "description": "The paper sharing website",
   "main": "app.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ramaneswaran/paperstock.git"
+    "url": "https://github.com/AkashIT418/paperstocks.git"
   },
-  "author": "Raman",
+  "author": "Akash",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ramaneswaran/paperstock/issues"
+    "url": "https://github.com/AkashIT418/paperstocks/issues"
   },
-  "homepage": "https://github.com/ramaneswaran/paperstock#readme",
+  "homepage": "https://github.com/AkashIT418/paperstocks#readme",
   "dependencies": {
     "@hapi/joi": "^16.1.7",
     "bcryptjs": "^2.4.3",
