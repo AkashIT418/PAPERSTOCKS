@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ramaneswaran/paperstock.git"
+    "url": "https://github.com/AkashIT418/paperstock_pro.git"
   },
   "author": "Raman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ramaneswaran/paperstock/issues"
+    "url": "https://github.com/AkashIT418/paperstock_pro/issues"
   },
-  "homepage": "https://github.com/ramaneswaran/paperstock#readme",
+  "homepage": "https://github.com/AkashIT418/paperstock_pro#readme",
   "dependencies": {
     "@hapi/joi": "^16.1.7",
     "bcryptjs": "^2.4.3",
