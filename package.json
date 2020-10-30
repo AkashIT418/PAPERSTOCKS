@@ -4,7 +4,7 @@
   "engines": {
     "node": "8.10.0"
   },
-  "description": "The paper sharing website",
+  "description": "The Paper Sharing Website for Students",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
